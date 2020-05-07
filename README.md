@@ -69,4 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### Note
 
-To run this project first run the command `npm start` from the main directory and the open a new terminal and move to `stripebackend` directory and run the command `npm start`. Also you need to create an account on stripe and add your api keys on app.js and index.js
+To run this project first run the command `npm start` from the main directory and the open a new terminal and move to `stripebackend` directory and run the command `npm start`. Also you need to create an account on stripe and add your api keys in app.js and index.js
