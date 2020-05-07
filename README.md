@@ -66,3 +66,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Note
+
+To run this project first run the command `npm start` from the main directory and the open a new terminal and move to `stripebackend` directory and run the command `npm start`. Also you need to create an account on stripe and add your api keys on app.js and index.js
